@@ -7,9 +7,8 @@ namespace AOC2021
     {
         static void Main(string[] args)
         {
-            int[] testData = Day1.Day1Input();
-            int[] summedList = Day1.Problem2(testData);
-            Console.WriteLine(Day1.Problem1(summedList));
+            string[] testData = Day2.Day2Input();
+            Console.WriteLine(Day2.RunPathWithAim(testData));
         }
     }
 }
