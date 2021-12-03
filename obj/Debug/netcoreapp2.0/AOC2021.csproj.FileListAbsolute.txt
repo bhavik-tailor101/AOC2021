@@ -1,0 +1,10 @@
+C:\Users\Bhavik\AOC2021\bin\Debug\netcoreapp2.0\AOC2021.deps.json
+C:\Users\Bhavik\AOC2021\bin\Debug\netcoreapp2.0\AOC2021.runtimeconfig.json
+C:\Users\Bhavik\AOC2021\bin\Debug\netcoreapp2.0\AOC2021.runtimeconfig.dev.json
+C:\Users\Bhavik\AOC2021\bin\Debug\netcoreapp2.0\AOC2021.dll
+C:\Users\Bhavik\AOC2021\bin\Debug\netcoreapp2.0\AOC2021.pdb
+C:\Users\Bhavik\AOC2021\obj\Debug\netcoreapp2.0\AOC2021.csproj.CoreCompileInputs.cache
+C:\Users\Bhavik\AOC2021\obj\Debug\netcoreapp2.0\AOC2021.AssemblyInfoInputs.cache
+C:\Users\Bhavik\AOC2021\obj\Debug\netcoreapp2.0\AOC2021.AssemblyInfo.cs
+C:\Users\Bhavik\AOC2021\obj\Debug\netcoreapp2.0\AOC2021.dll
+C:\Users\Bhavik\AOC2021\obj\Debug\netcoreapp2.0\AOC2021.pdb
